@@ -875,3 +875,9 @@ svg {
 .youtube:hover {
     fill: #1abe84;
 }
+button:active {
+  outline: none;
+}
+button:focus {
+    outline: none;
+}
