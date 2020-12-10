@@ -5,7 +5,7 @@ QUICK START
 --------------------------------------------------------------------------------
 **Clone** project 
 
-git clone https://github.com/KosanyakViktor/CFF.git
+git clone https://github.com/KosanyakViktor/Explore-And-Travel.git
 
 **The tech stack is:**
 * *HTML*
